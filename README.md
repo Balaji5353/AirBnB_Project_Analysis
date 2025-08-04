@@ -5,7 +5,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 [AirBnB Project Analysis](Airbnb_project_analysis.ipynb)
 
-<img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width=1000>
+<![Image](https://github.com/user-attachments/assets/3fdcc5d6-c273-41f2-8e28-614324ff908e)>
 
 
 # 🚀 Features:
