@@ -8,7 +8,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 <img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width=1000>
 
 
-🚀 Features:
+##🚀 Features:
 - Data Cleaning & Preprocessing
   
 - Exploratory Data Analysis (EDA)
@@ -23,7 +23,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 - Insights & Recommendations Summary
 
-🛠️ Tools & Libraries:
+##🛠️ Tools & Libraries:
 - Python
 
 - Pandas
