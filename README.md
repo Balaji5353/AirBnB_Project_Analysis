@@ -9,7 +9,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 
 🚀 Features:
-:spot:Data Cleaning & Preprocessing
+Data Cleaning & Preprocessing
 
 Exploratory Data Analysis (EDA)
 
